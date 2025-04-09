@@ -1,0 +1,6 @@
+**.idia/
+*.sln
+*.csproj
+**obj/
+**bin/
+*.user
